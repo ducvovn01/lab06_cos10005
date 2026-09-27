@@ -1,0 +1,5 @@
+/* desktop.css - applied when the browser is at least 768px wide */
+
+body {
+	color: red;
+}
